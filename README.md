@@ -1,7 +1,8 @@
 # Standup Recap Action
 
 GitHub Action to summarize Slack standup messages using AI for streamlined team updates
-Features
+
+## Features
 
 - Reads standup messages from a specified Slack channel
 - Uses AI (ChatGPT or Claude) to generate concise summaries
